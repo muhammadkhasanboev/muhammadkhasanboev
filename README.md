@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **I am currently working at TAD industries**
 
-- 🌱 I'm currently learning **Kotlin, Jetpack compose, Project Architecture, Swift, Swift UI**
+- 🌱 I'm currently learning **Kotlin, Jetpack compose, Architecture Pattarns, Swift, Swift UI**
 
 - 👯 I'm looking to collaborate on **Native Android projects**
 
