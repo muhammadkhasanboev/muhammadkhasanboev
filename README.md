@@ -2,7 +2,7 @@
 
 ### A Native mobile developer (Android/ iOS)
 
-- 🔭 I'm currently working on **Native mobile apps at TAD invest LLC**
+- 🔭 I'm currently working at **TAD invest LLC as Native Mobile developer**
 
 - 🌱 I'm currently learning **Kotlin, Jetpack compose, Architecture Patterns, MVVM architecture, Swift, Swift UI**
 
