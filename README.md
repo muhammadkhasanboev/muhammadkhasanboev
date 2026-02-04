@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muhammad Khasanboev
 
-### A Native mobile developer (Android/ iOS)
+### A Native Mobile developer (Android/ iOS)
 
 - 🔭 I'm currently working at **TAD invest LLC as Native Mobile developer**
 
