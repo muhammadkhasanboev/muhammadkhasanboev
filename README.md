@@ -2,15 +2,15 @@
 
 ### A Native Mobile developer (Android/ iOS)
 
-- 🔭 I'm currently working at **TAD invest LLC as Native Mobile developer**
+-  I'm currently working at **TAD invest LLC as Native Mobile developer**
 
-- 🌱 I'm currently learning **Kotlin, Jetpack compose, Clean Architecture, MVVM architecture, Swift, Swift UI**
+-  I'm currently learning **Kotlin, Jetpack compose, Clean Architecture, MVVM architecture, Swift, Swift UI**
 
-- 👯 I'm looking to collaborate on **Native Android projects**
+-  I'm looking to collaborate on **Native Android projects**
 
-- 🤝 I'm looking for help with **improve my skills**
+-  I'm looking for help with **improve my skills**
 
-- 📫 How to reach me **muhammadkhasanboev@gmail.com**
+-  How to reach me **muhammadkhasanboev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
