@@ -1,4 +1,4 @@
-# Hi 👋, I'm Muhammad Khasanboev 
+# Hi 👋, I'm Muhammad Khasanboev  
 
 ### A Native Mobile developer (Android/ iOS) 
 
