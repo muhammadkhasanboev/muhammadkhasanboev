@@ -8,8 +8,6 @@
 
 -  I'm looking to collaborate on **Native Android projects**
 
--  I'm looking for help with **improve my skills**
-
 -  How to reach me **muhammadkhasanboev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
