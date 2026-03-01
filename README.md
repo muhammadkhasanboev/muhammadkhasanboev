@@ -2,7 +2,7 @@
 
 ### A Native Mobile developer (Android/ iOS) 
 
--  I'm currently working at **TAD invest LLC as Native Mobile developer**
+-  I'm currently working at **TAD invest LLC as Native Mobile developer(Android/iOS)**
 
 -  I'm currently learning **Kotlin/Compose, Java/XML, Clean Architecture, MVVM architecture, Swift, Swift UI**
 
