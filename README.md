@@ -4,7 +4,7 @@
 
 -  I'm currently working at **TAD invest LLC as Native Mobile developer(Android/iOS)**
 
--  I'm currently learning **Kotlin/Compose, Java/XML, Clean Architecture, MVVM architecture, Swift, Swift UI**
+-  I'm currently learning **Kotlin/Compose, Java/XML, Clean Architecture, MVVM architecture, Swift, Swift UI, integrating AI**
 
 -  I'm looking to collaborate on **Native Android projects and Freenlancing projects**
 
