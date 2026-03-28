@@ -6,8 +6,6 @@
 
 -  I'm currently learning **Kotlin/Jetpack Compose, Java/XML, Clean Architecture, MVVM architecture, Swift, Swift UI, integrating AI**
 
--  I'm looking to collaborate on **Native Android/iOS projects and Freenlancing projects**
-
 -  How to reach me **muhammadkhasanboev@gmail.com**
 
 <h3 align="left">My profiles:</h3>
