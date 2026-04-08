@@ -8,7 +8,7 @@
 
 -  How to reach me **muhammadkhasanboev@gmail.com**
 
-![](https://komarev.com/ghpvc/?username=anandgaur22)
+![](https://komarev.com/ghpvc/?username=muhammadkhasanboev&color=dc143c)
 
 <h3 align="left">My profiles:</h3>
 <p align="left">
