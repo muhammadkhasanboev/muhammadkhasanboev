@@ -8,6 +8,8 @@
 
 -  How to reach me **muhammadkhasanboev@gmail.com**
 
+![](https://komarev.com/ghpvc/?username=anandgaur22)
+
 <h3 align="left">My profiles:</h3>
 <p align="left">
 <a href="https://github.com/muhammadkhasanboev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="muhammadkhasanboev" height="30" width="40" /></a>
