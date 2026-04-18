@@ -68,17 +68,17 @@
 
 ### 🚀 My Applications
 
-#### 📱 Lope Style
+#### 📱 Android: Lope Style
 - A mobile app that wrapped webview, handles deep links
 - Tech: Kotlin, Native Bridge, Firebase notification, Android photo picker
 - Google Play: [Lope Style](https://play.google.com/store/apps/details?id=uz.barberbook.mobile)
 
-#### 📱 Smart Safe Education
+#### 📱 Android: Smart Safe Education
 - Webview wrapped inside Native android app
 - Tech: Kotlin, Jetpack Compose, Appwrite, REST API, MVVM, Android photo picker, Native Bridge
 - Google Play: [Smart Safe Education](https://play.google.com/store/apps/details?id=tadi.projects.tadischool)
 
-#### 📱 iOS App
-- Native iOS app built with SwiftUI
-- Tech: Swift, SwiftUI
-- App Store: https://apps.apple.com/...
+#### 📱 iOS App: Lope Style
+- Native iOS app, webview wrapped inside
+- Tech: Swift, SwiftUI, Firebase notification
+- App Store: [Lope Style](https://apps.apple.com/uz/app/lopestyle/id6761615021)
