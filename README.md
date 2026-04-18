@@ -63,3 +63,22 @@
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadkhasanboev" />
 </p>
+
+
+
+### 🚀 My Applications
+
+#### 📱 Quiz App
+- A mobile app that fetches questions from API and displays them dynamically
+- Tech: Kotlin, Retrofit, MVVM, REST API
+- Google Play: https://play.google.com/...
+
+#### 📱 Streaming App
+- RTSP video streaming app with real-time playback handling
+- Tech: Kotlin, ExoPlayer / LibVLC
+- Google Play: https://play.google.com/...
+
+#### 📱 iOS App
+- Native iOS app built with SwiftUI
+- Tech: Swift, SwiftUI
+- App Store: https://apps.apple.com/...
