@@ -68,10 +68,10 @@
 
 ### 🚀 My Applications
 
-#### 📱 Quiz App
-- A mobile app that fetches questions from API and displays them dynamically
-- Tech: Kotlin, Retrofit, MVVM, REST API
-- Google Play: https://play.google.com/...
+#### 📱 Lope Style
+- A mobile app that wrapped webview, handles deep links
+- Tech: Kotlin, Native Bridge, Firebase notification, Android photo picker
+- Google Play: [https://play.google.com/...](https://play.google.com/store/apps/details?id=uz.barberbook.mobile)
 
 #### 📱 Streaming App
 - RTSP video streaming app with real-time playback handling
