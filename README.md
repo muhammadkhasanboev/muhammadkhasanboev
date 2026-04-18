@@ -71,12 +71,12 @@
 #### 📱 Lope Style
 - A mobile app that wrapped webview, handles deep links
 - Tech: Kotlin, Native Bridge, Firebase notification, Android photo picker
-- Google Play: [https://play.google.com/...](https://play.google.com/store/apps/details?id=uz.barberbook.mobile)
+- Google Play: [Lope Style](https://play.google.com/store/apps/details?id=uz.barberbook.mobile)
 
-#### 📱 Streaming App
-- RTSP video streaming app with real-time playback handling
-- Tech: Kotlin, ExoPlayer / LibVLC
-- Google Play: https://play.google.com/...
+#### 📱 Smart Safe Education
+- Webview wrapped inside Native android app
+- Tech: Kotlin, Jetpack Compose, Appwrite, REST API, MVVM, Android photo picker, Native Bridge
+- Google Play: [Smart Safe Education](https://play.google.com/store/apps/details?id=tadi.projects.tadischool)
 
 #### 📱 iOS App
 - Native iOS app built with SwiftUI
