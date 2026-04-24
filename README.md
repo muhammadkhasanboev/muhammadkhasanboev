@@ -11,18 +11,17 @@
 ![](https://komarev.com/ghpvc/?username=muhammadkhasanboev&color=dc143c)
 
 <h3 align="left">My profiles:</h3>
-<div style="display:flex; gap:5px; margin-right:10px;">
-  <a href="https://github.com/muhammadkhasanboev" target="_blank" style="display:inline-block; margin-right:10px;">
+<p>
+  <a href="https://github.com/muhammadkhasanboev" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammadkhasanboev" target="_blank" style="display:inline-block; margin-right:10px;">
+  <a href="https://www.linkedin.com/in/muhammadkhasanboev" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://codeforces.com/profile/Muhammad.xasanboyev" target="_blank" style="display:inline-block;">
+  <a href="https://codeforces.com/profile/Muhammad.xasanboyev" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" />
   </a>
-</div>
-
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank">
