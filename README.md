@@ -11,7 +11,7 @@
 ![](https://komarev.com/ghpvc/?username=muhammadkhasanboev&color=dc143c)
 
 <h3 align="left">My profiles:</h3>
-<p align="left">
+<p align="left" style="display:flex">
   <a href="https://github.com/muhammadkhasanboev" target="_blank" style="display:inline-block; margin-right:10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
   </a>
