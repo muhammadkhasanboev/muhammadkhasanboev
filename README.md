@@ -11,7 +11,7 @@
 ![](https://komarev.com/ghpvc/?username=muhammadkhasanboev&color=dc143c)
 
 <h3 align="left">My profiles:</h3>
-<p align="">
+<span align="">
   <a href="https://github.com/muhammadkhasanboev" target="_blank" style="display:inline-block; margin-right:10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
   </a>
@@ -21,7 +21,7 @@
   <a href="https://codeforces.com/profile/Muhammad.xasanboyev" target="_blank" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" />
   </a>
-</p>
+</span>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
