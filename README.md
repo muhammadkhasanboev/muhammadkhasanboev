@@ -24,7 +24,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadkhasanboev" />
 </p>
 
-### 🚀 My Applications
+### 🚀 My Applications on production
 
 #### 📱 Android: Lope Style
 - A mobile app that wrapped webview, handles deep links
