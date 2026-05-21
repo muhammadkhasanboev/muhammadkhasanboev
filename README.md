@@ -1,4 +1,4 @@
-# Hi 👋, I'm Muhammad Khasanboev  
+# Hi, I'm Muhammad Khasanboev  
 
 ### A Native Mobile developer (Android/ iOS) 
 
@@ -8,7 +8,7 @@
 
 - How to reach me **muhammadkhasanboev@gmail.com**
 
-![](https://komarev.com/ghpvc/?username=muhammadkhasanboev&color=dc143c)
+
 
 <h3 align="left">My profiles:</h3>
 <p>
