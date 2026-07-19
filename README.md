@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="pixel-screen.svg" alt="Pixel screen animating between Android and iOS" width="480"/>
+</p>
+
 # Hi, I'm Muhammad Khasanboev  
 
 ### A Native Mobile developer (Android/ iOS) 
