@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <sub><b>🌱 Currently exploring</b></sub><br/>
+  <b>🌱 Currently exploring</b><br/><br/>
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
   <img src="https://img.shields.io/badge/Clean_Architecture-232323?style=flat-square" />
   <img src="https://img.shields.io/badge/MVVM-232323?style=flat-square" />
@@ -32,22 +32,56 @@
 
 ### 🧰 Languages & Tools
 
-<p>
-  <sub><b>Languages</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,swift" />
-</p>
-<p>
-  <sub><b>Android / Design</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=androidstudio,figma" />
-</p>
-<p>
-  <sub><b>Backend & Data</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=appwrite,firebase,oracle,sqlite" />
-</p>
-<p>
-  <sub><b>Tooling</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=git,postman" />
-</p>
+<table>
+<tr>
+<td width="220">
+
+**💻 Languages**
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,swift" />
+
+</td>
+</tr>
+<tr>
+<td width="220">
+
+**📱 Android & Design**
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=androidstudio,figma" />
+
+</td>
+</tr>
+<tr>
+<td width="220">
+
+**☁️ Backend & Data**
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=appwrite,firebase,oracle,sqlite" />
+
+</td>
+</tr>
+<tr>
+<td width="220">
+
+**🛠️ Tooling**
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=git,postman" />
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammadkhasanboev&label=Profile%20Views&color=3ddc84&style=for-the-badge" />
