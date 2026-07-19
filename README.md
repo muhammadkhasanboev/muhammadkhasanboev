@@ -11,7 +11,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Company-TAD_invest_LLC-3DDC84?style=flat-square" />
   <img src="https://img.shields.io/badge/Role-Android_%26_iOS_Developer-3DDC84?style=flat-square" />
-  <a href="mailto:muhammadkhasanboev@gmail.com"><img src="https://img.shields.io/badge/Email-muhammadkhasanboev%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -28,6 +27,7 @@
   <a href="https://github.com/muhammadkhasanboev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/muhammadkhasanboev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/Muhammad.xasanboyev" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="mailto:muhammadkhasanboev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ### 🧰 Languages & Tools
@@ -88,7 +88,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadkhasanboev&background=0D1117&ring=3DDC84&fire=3DDC84&currStreakLabel=3DDC84&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=muhammadkhasanboev&background=0D1117&border=30363D&ring=3DDC84&fire=3DDC84&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3DDC84&sideLabels=C9D1D9&dates=8B949E&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=muhammadkhasanboev&background=FFFFFF&border=D0D7DE&ring=1F8A4C&fire=1F8A4C&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=1F8A4C&sideLabels=57606A&dates=57606A&hide_border=true" />
+    <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadkhasanboev&background=0D1117&border=30363D&ring=3DDC84&fire=3DDC84&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3DDC84&sideLabels=C9D1D9&dates=8B949E&hide_border=true" />
+  </picture>
 </p>
 
 ### 🚀 Apps in Production
