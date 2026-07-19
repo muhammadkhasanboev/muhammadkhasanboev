@@ -2,30 +2,59 @@
   <img src="pixel-screen.svg" alt="Pixel screen animating between Android and iOS" width="100%"/>
 </p>
 
-# Hi, I'm Muhammad Khasanboev  
+<h1 align="center">Hi, I'm Muhammad Khasanboev 👋</h1>
 
-### A Native Mobile developer (Android/ iOS) 
-
-- I'm currently working at **TAD invest LLC as Native Mobile developer(Android/iOS)**
-
-- I'm currently learning **Kotlin/Jetpack Compose, Java/XML, Clean Architecture, MVVM architecture, Swift/Swift UI, integrating AI**
-
-- How to reach me **muhammadkhasanboev@gmail.com**
-
-
-
-<h3 align="left">My profiles:</h3>
-<p>
-<a href="https://github.com/muhammadkhasanboev" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a><a href="https://www.linkedin.com/in/muhammadkhasanboev" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a><a href="https://codeforces.com/profile/Muhammad.xasanboyev" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3DDC84&center=true&vCenter=true&width=600&lines=Native+Mobile+Developer;Android+%7C+Kotlin+%7C+Jetpack+Compose;iOS+%7C+Swift+%7C+SwiftUI;Building+apps+people+actually+use" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/appwrite" target="_blank"><img src="https://skillicons.dev/icons?i=appwrite" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/swift" target="_blank"><img src="https://skillicons.dev/icons?i=swift" width="40" height="40"/></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Company-TAD_invest_LLC-3DDC84?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-Android_%26_iOS_Developer-3DDC84?style=flat-square" />
+  <a href="mailto:muhammadkhasanboev@gmail.com"><img src="https://img.shields.io/badge/Email-muhammadkhasanboev%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <sub><b>🌱 Currently exploring</b></sub><br/>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-232323?style=flat-square" />
+  <img src="https://img.shields.io/badge/MVVM-232323?style=flat-square" />
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Integration-412991?style=flat-square&logo=openai&logoColor=white" />
+</p>
+
+<h3 align="center">📡 Find me on</h3>
+<p align="center">
+  <a href="https://github.com/muhammadkhasanboev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammadkhasanboev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/Muhammad.xasanboyev" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+</p>
+
+### 🧰 Languages & Tools
+
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadkhasanboev" />
+  <sub><b>Languages</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,swift" />
+</p>
+<p>
+  <sub><b>Android / Design</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,figma" />
+</p>
+<p>
+  <sub><b>Backend & Data</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=appwrite,firebase,oracle,sqlite" />
+</p>
+<p>
+  <sub><b>Tooling</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=git,postman" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammadkhasanboev&label=Profile%20Views&color=3ddc84&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadkhasanboev&background=0D1117&ring=3DDC84&fire=3DDC84&currStreakLabel=3DDC84&hide_border=true" />
 </p>
 
 ### 🚀 Apps in Production
