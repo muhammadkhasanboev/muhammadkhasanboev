@@ -28,19 +28,83 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadkhasanboev" />
 </p>
 
-### 🚀 My Applications on production
+### 🚀 Apps in Production
 
-#### 📱 Android: Lope Style
-- A mobile app that wrapped webview, handles deep links
-- Tech: Kotlin, Native Bridge, Firebase notification, Android photo picker
-- Google Play: [Lope Style](https://play.google.com/store/apps/details?id=uz.barberbook.mobile)
+<table>
+<tr>
+<td width="260">
 
-#### 📱 Android: Smart Safe Education
-- Webview wrapped inside Native android app
-- Tech: Kotlin, Jetpack Compose, Appwrite, REST API, MVVM, Android photo picker, Native Bridge
-- Google Play: [Smart Safe Education](https://play.google.com/store/apps/details?id=tadi.projects.tadischool)
+**Lope Style**
+Webview-wrapped app with native deep-link handling and push notifications.
 
-#### 📱 iOS App: Lope Style
-- Native iOS app, webview wrapped inside
-- Tech: Swift, SwiftUI, Firebase notification
-- App Store: [Lope Style](https://apps.apple.com/uz/app/lopestyle/id6761615021)
+</td>
+<td width="130" align="center">
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+</td>
+<td width="320">
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Native Bridge](https://img.shields.io/badge/Native_Bridge-232323?style=flat-square)
+
+</td>
+<td width="150" align="center">
+
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=uz.barberbook.mobile)
+
+</td>
+</tr>
+<tr>
+<td width="260">
+
+**Smart Safe Education**
+Webview wrapped inside a native Android shell with MVVM data flow.
+
+</td>
+<td width="130" align="center">
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+</td>
+<td width="320">
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-232323?style=flat-square)
+
+</td>
+<td width="150" align="center">
+
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=tadi.projects.tadischool)
+
+</td>
+</tr>
+<tr>
+<td width="260">
+
+**Lope Style**
+Native iOS counterpart of the Android app, webview wrapped inside SwiftUI.
+
+</td>
+<td width="130" align="center">
+
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+</td>
+<td width="320">
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</td>
+<td width="150" align="center">
+
+[![Download on the App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/uz/app/lopestyle/id6761615021)
+
+</td>
+</tr>
+</table>
