@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="pixel-screen.svg" alt="Pixel screen animating between Android and iOS" width="480"/>
+  <img src="pixel-screen.svg" alt="Pixel screen animating between Android and iOS" width="100%"/>
 </p>
 
 # Hi, I'm Muhammad Khasanboev  
