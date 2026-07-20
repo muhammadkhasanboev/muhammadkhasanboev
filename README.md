@@ -83,17 +83,17 @@
 </tr>
 </table>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammadkhasanboev&label=Profile%20Views&color=3ddc84&style=for-the-badge" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=muhammadkhasanboev&background=0D1117&border=30363D&ring=3DDC84&fire=3DDC84&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3DDC84&sideLabels=C9D1D9&dates=8B949E&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=muhammadkhasanboev&background=FFFFFF&border=D0D7DE&ring=1F8A4C&fire=1F8A4C&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=1F8A4C&sideLabels=57606A&dates=57606A&hide_border=true" />
-    <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadkhasanboev&background=0D1117&border=30363D&ring=3DDC84&fire=3DDC84&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3DDC84&sideLabels=C9D1D9&dates=8B949E&hide_border=true" />
+    <!-- <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadkhasanboev&background=0D1117&border=30363D&ring=3DDC84&fire=3DDC84&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3DDC84&sideLabels=C9D1D9&dates=8B949E&hide_border=true" /> -->
   </picture>
-</p>
+</p> -->
 
 ###  Apps in Production
 
