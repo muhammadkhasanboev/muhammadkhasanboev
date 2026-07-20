@@ -48,7 +48,7 @@
 <tr>
 <td width="220">
 
-** Android & Design**
+**Android & Design**
 
 </td>
 <td>
@@ -60,7 +60,7 @@
 <tr>
 <td width="220">
 
-** Backend & Data**
+**Backend & Data**
 
 </td>
 <td>
@@ -72,7 +72,7 @@
 <tr>
 <td width="220">
 
-** Tooling**
+**Tooling**
 
 </td>
 <td>
