@@ -13,14 +13,14 @@
   <img src="https://img.shields.io/badge/Role-Android_%26_iOS_Developer-3DDC84?style=flat-square" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <b>Currently exploring: </b>
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
   <img src="https://img.shields.io/badge/Clean_Architecture-232323?style=flat-square" />
   <img src="https://img.shields.io/badge/MVVM-232323?style=flat-square" />
   <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_Integration-412991?style=flat-square&logo=openai&logoColor=white" />
-</p>
+</p> -->
 
 <b>Find me on</b>
 <p align="center">
