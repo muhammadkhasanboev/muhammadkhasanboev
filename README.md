@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/AI_Integration-412991?style=flat-square&logo=openai&logoColor=white" />
 </p> -->
 
-<b>Find me on</b>
+<!-- <b>Find me on</b> -->
 <p align="center">
   <a href="https://github.com/muhammadkhasanboev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/muhammadkhasanboev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -30,13 +30,13 @@
   <a href="mailto:muhammadkhasanboev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-### 🧰 Languages & Tools
+### Languages & Tools
 
 <table>
 <tr>
 <td width="220">
 
-**💻 Languages**
+**Languages**
 
 </td>
 <td>
@@ -48,7 +48,7 @@
 <tr>
 <td width="220">
 
-**📱 Android & Design**
+** Android & Design**
 
 </td>
 <td>
@@ -60,7 +60,7 @@
 <tr>
 <td width="220">
 
-**☁️ Backend & Data**
+** Backend & Data**
 
 </td>
 <td>
@@ -72,7 +72,7 @@
 <tr>
 <td width="220">
 
-**🛠️ Tooling**
+** Tooling**
 
 </td>
 <td>
@@ -95,7 +95,7 @@
   </picture>
 </p>
 
-### 🚀 Apps in Production
+###  Apps in Production
 
 <table>
 <tr>
