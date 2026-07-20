@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <b>Currently exploring</b>
+  <b>Currently exploring: </b>
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
   <img src="https://img.shields.io/badge/Clean_Architecture-232323?style=flat-square" />
   <img src="https://img.shields.io/badge/MVVM-232323?style=flat-square" />
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/AI_Integration-412991?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
-<h3 align="center"><b>Find me on</b></h3>
+<b>Find me on</b>
 <p align="center">
   <a href="https://github.com/muhammadkhasanboev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/muhammadkhasanboev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
