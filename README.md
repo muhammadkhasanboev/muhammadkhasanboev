@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <b>Currently exploring</b><br/><br/>
+  <b>Currently exploring</b>
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
   <img src="https://img.shields.io/badge/Clean_Architecture-232323?style=flat-square" />
   <img src="https://img.shields.io/badge/MVVM-232323?style=flat-square" />
